@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../Vue_project"
+		},
+		{
+			"path": "../../../composable_noteballs"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../weather_app"
+		},
+		{
+			"path": "../../../typescript"
+		}
+	],
+	"settings": {}
+}
